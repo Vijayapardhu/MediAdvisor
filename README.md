@@ -6,6 +6,18 @@ An AI-powered symptom analysis tool built with Next.js, Tailwind CSS, and Google
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)
 
+## 📸 Screenshots
+
+<div align="center">
+
+### Symptom Wizard - Light Mode
+![Symptom Wizard](./public/screenshots/symptom-wizard.png)
+
+### Dark Mode Support
+![Dark Mode](./public/screenshots/dark-mode.png)
+
+</div>
+
 ## ✨ Features
 
 - 🎯 **Multi-step Symptom Wizard**: Interactive form for comprehensive symptom collection
