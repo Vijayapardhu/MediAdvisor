@@ -66,27 +66,6 @@ An AI-powered symptom analysis tool built with Next.js, Tailwind CSS, and Google
 5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 📦 Deployment
-
-### Deploy to Vercel (Recommended)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Vijayapardhu/MediAdvisor)
-
-1. Click the "Deploy to Vercel" button above
-2. Connect your GitHub account
-3. Add environment variable:
-   - **Key**: `NEXT_PUBLIC_GEMINI_API_KEY`
-   - **Value**: Your Gemini API key
-4. Click "Deploy"
-
-### Manual Deployment
-
-1. Go to [Vercel.com](https://vercel.com)
-2. Click "Add New..." → "Project"
-3. Import your `MediAdvisor` repository
-4. Add environment variable: `NEXT_PUBLIC_GEMINI_API_KEY`
-5. Click "Deploy"
-
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 16.0 (with Turbopack)
